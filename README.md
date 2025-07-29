@@ -8,4 +8,4 @@ This is a simple Python program that:
 
 
 ```bash
-python cal.py
+python3 cal.py
